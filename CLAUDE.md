@@ -1,6 +1,6 @@
-# CLAUDE.md — headrun-website
+# CLAUDE.md — website-headrun
 
-Website for **HEADRUN** (Headrun LP, Greece) at `headrun.eu`. Astro 6 + Tailwind v4, fully static. Org/repo `headrun-lp/headrun-website`.
+Website for **HEADRUN** (Headrun LP, Greece) at `headrun.eu`. Astro 6 + Tailwind v4, fully static. Org/repo `headrun-lp/website-headrun`.
 
 ## Rules
 - **Must stay free.** Public repo + GitHub Pages + GitHub Actions (unlimited on public repos) + Cloudflare DNS (free plan). Never make the repo private, never add Vercel or paid services.
