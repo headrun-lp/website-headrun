@@ -73,36 +73,36 @@ export const events: EventItem[] = [
   {
     slug: 'vamos-flamenco-camp',
     name: { en: 'Vamos Flamenco Camp', el: 'Vamos Flamenco Camp' },
-    kicker: { en: 'Hola Flamenco Festival · 7th edition', el: 'Hola Flamenco Festival · 7η διοργάνωση' },
-    dates: { en: '13–19 July 2026', el: '13–19 Ιουλίου 2026' },
+    kicker: { en: 'Hola Flamenco Festival · 8th edition', el: 'Hola Flamenco Festival · 8η διοργάνωση' },
+    dates: { en: '17–25 July 2027', el: '17–25 Ιουλίου 2027' },
     location: { en: 'Vamos, Apokoronas, Crete', el: 'Βάμος, Αποκόρωνας, Κρήτη' },
-    role: { en: 'Co-organizers · Website & social media', el: 'Συνδιοργανωτές · Ιστοσελίδα & social media' },
+    role: { en: 'Website & marketing', el: 'Ιστοσελίδα & marketing' },
     roleBody: {
-      en: 'We co-organize the camp with the Hola Flamenco Festival team and run everything digital — the website, social media and the online presence that brings flamencos from across Europe to a Cretan village.',
-      el: 'Συνδιοργανώνουμε το camp μαζί με την ομάδα του Hola Flamenco Festival και έχουμε όλο το digital — την ιστοσελίδα, τα social media και την online παρουσία.',
+      en: 'We run the website and marketing for the camp — the online presence that brings flamencos from across Europe to a Cretan village.',
+      el: 'Έχουμε την ιστοσελίδα και το marketing του camp — την online παρουσία που φέρνει flamencos από όλη την Ευρώπη σε ένα χωριό της Κρήτης.',
     },
     about: {
       en: [
-        'A week in a Cretan village, for people who already live flamenco. Workshops in dance, guitar, cante and percussion — mornings in class, afternoons at the beach, nights that end on the cajón.',
+        'Nine days in a Cretan village, for people who already live flamenco. Workshops in dance, guitar and cante — mornings in class, afternoons at the beach, nights that end on the cajón.',
         'Between classes, the group explores Crete together. And somewhere along the way, flamenco stops being something you study and becomes something you live.',
       ],
       el: [
-        'Μια εβδομάδα σε ένα χωριό της Κρήτης, για ανθρώπους που ήδη ζουν το φλαμένκο. Εργαστήρια χορού, κιθάρας, cante και κρουστών — πρωινά στην αίθουσα, απογεύματα στην παραλία, βράδια που τελειώνουν στο cajón.',
+        'Εννέα μέρες σε ένα χωριό της Κρήτης, για ανθρώπους που ήδη ζουν το φλαμένκο. Εργαστήρια χορού, κιθάρας και cante — πρωινά στην αίθουσα, απογεύματα στην παραλία, βράδια που τελειώνουν στο cajón.',
         'Ανάμεσα στα μαθήματα, γυρίζουμε μαζί την Κρήτη. Και κάπου εκεί, το φλαμένκο σταματά να είναι κάτι που μαθαίνεις — γίνεται κάτι που ζεις.',
       ],
     },
     facts: [
-      { en: 'Dance · guitar · cante · percussion', el: 'Χορός · κιθάρα · cante · κρουστά' },
-      { en: '1 week', el: '1 εβδομάδα' },
+      { en: 'Dance · guitar · cante', el: 'Χορός · κιθάρα · cante' },
+      { en: '9 days', el: '9 ημέρες' },
       { en: 'All levels', el: 'Όλα τα επίπεδα' },
     ],
     credits: [
       {
         label: { en: 'Organized by', el: 'Διοργάνωση' },
-        value: { en: 'Hola Flamenco Festival & HEADRUN', el: 'Hola Flamenco Festival & HEADRUN' },
+        value: { en: 'Hola Flamenco Festival', el: 'Hola Flamenco Festival' },
       },
     ],
-    url: 'https://www.holaflamencofestival.com/vamos-flamenco-camp-crete/',
+    url: 'https://flamencogreece.com/vamos-flamenco-camp',
     cover: '/images/events/vamos/hero.jpg',
     images: [
       { src: '/images/events/vamos/hero.jpg', alt: { en: 'Vamos Flamenco Camp — photo 1', el: 'Vamos Flamenco Camp — φωτογραφία 1' } },
